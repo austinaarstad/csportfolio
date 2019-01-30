@@ -1,0 +1,21 @@
+body {
+    background-color: red;
+}
+p{
+    background-color: gray
+}
+h5{
+    text-align:center;
+}
+.class {
+    font-family: Arial;
+}
+.favorite{
+    color: gray;
+}
+#favorite-things{
+    background-color: black;
+}
+img{
+    margin:15px;
+}
